@@ -58,7 +58,7 @@ const Blogs = () => {
         className="blogs card"
         style={{
           background: "lightgreen",
-          height: "13.5rem",
+          height: "14.5rem",
           width: "23rem",
           display: "flex",
           borderTopLeftRadius: "1rem",

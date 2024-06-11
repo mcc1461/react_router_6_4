@@ -7,3 +7,5 @@ Router.js > createBrowserRouter
 src > pages > Home, About, Blogs, Root ...
 
 App.js > RouterProvider
+
+$ npm i react-select
