@@ -2,9 +2,8 @@
 
 $ npx create-react-app .
 
-Router.js
+Router.js > createBrowserRouter
 
 src > pages > Home, About, Blogs, Root ...
 
-
-
+App.js > RouterProvider
